@@ -1,0 +1,41 @@
+_repo: Modern-Women-and-What-is-Said-of-ThemA-Reprint-of-A-Series-of-Articles-in-the-Saturday-Review__26948
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Calhoun, Lucia Gilbert
+    gutenberg_agent_id: '32355'
+    url: http://www.gutenberg.org/2009/agents/32355
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linton, E. Lynn (Elizabeth Lynn)
+    aliases:
+    - Lynn, Eliza
+    - Linton, Mrs. Lynn
+    - Linton, Lynn
+    - Linton, Elizabeth Lynn
+    - Linton, Eliza Lynn
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '4835'
+    url: http://www.gutenberg.org/2009/agents/4835
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lynn_Linton
+description: ''
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26948'
+  lccn: 09005676
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+title: 'Modern Women and What is Said of Them
+
+  A Reprint of A Series of Articles in the Saturday Review (1868)'
+url: http://www.gutenberg.org/ebooks/26948
